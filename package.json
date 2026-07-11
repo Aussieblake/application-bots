@@ -1,6 +1,9 @@
 {
   "name": "application-bot",
   "version": "1.0.0",
+  "engines": {
+  "node": "22.x"
+},
   "description": "Custom Discord Application Bot",
   "main": "index.js",
   "scripts": {
